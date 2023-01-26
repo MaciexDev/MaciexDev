@@ -1,17 +1,9 @@
 ## 👋 Hi, I'm Maciex!
-<table><tr><td valign="top" width="50%">
 
 - 🎶 My main project: [Tune 🎶](https://tunebot.site)  
   
 
 - 🎈 I’m currently working on [GoofyCompany](https://github.com/rishavanand/github-profilinator)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
