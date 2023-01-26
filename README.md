@@ -31,16 +31,10 @@
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaciexDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=MaciexDev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
 <br/>  
-
-  
-
+<br/>  
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
