@@ -3,7 +3,7 @@
 - 🎶 My main project: [Tune 🎶](https://tunebot.site)  
   
 
-- 🎈 I’m currently working on [GoofyCompany](https://github.com/rishavanand/github-profilinator)  
+- 🎈 I’m currently working on [GoofyCompany](https://github.com/GoofyCompany)  
 
 <br/>  
 
